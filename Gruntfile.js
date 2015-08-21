@@ -227,7 +227,8 @@ module.exports = function (grunt) {
         files: {
           'dist/css/select2.css': [
             'src/scss/core.scss',
-            'src/scss/theme/default/layout.css'
+            'src/scss/theme/default/layout.css',
+            'src/scss/theme/mar/layout.css'
           ]
         }
       }
